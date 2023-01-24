@@ -28,28 +28,8 @@
     <td align="center">
 	<img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-oliveiras&&layout=compact&hide=shell&theme=highcontrast">  
     </td>
+    <td align="center">
+	<img height="160em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leonardo-oliveiras&theme=tokyonight">  
+    </td>
   </tr>
 </table>
-
-<!--
-<table align="center">
-  <tr>
-    <td align="center"><a href="https://github.com/leonardo-oliveiras#gh-light-mode-only"><img
-          src="https://github-readme-stats.vercel.app/api?username=leonardo-oliveiras&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only"
-          alt="My GitHub Stats" /></a><a href="https://github.com/leonardo-oliveiras#gh-dark-mode-only"><img
-          src="https://github-readme-stats.vercel.app/api?username=leonardo-oliveiras&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only"
-          alt="My GitHub Stats" /></a></td>
-    <td rowspan="2" align="center"><a href="https://github.com/leonardo-oliveiras#gh-light-mode-only"><img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-oliveiras&theme=default&langs_count=8#gh-light-mode-only"
-          alt="My GitHub Stats" /></a><a href="https://github.com/leonardo-oliveiras#gh-dark-mode-only"><img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-oliveiras&theme=tokyonight&langs_count=8#gh-dark-mode-only"
-          alt="My GitHub Stats" /></a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/leonardo-oliveiras#gh-light-mode-only"><img
-          src="https://github-readme-streak-stats.herokuapp.com/?user=leonardo-oliveiras&theme=default" /></a><a
-        href="https://github.com/leonardo-oliveiras#gh-dark-mode-only"><img
-          src="https://github-readme-streak-stats.herokuapp.com/?user=leonardo-oliveiras&theme=tokyonight" /></a></td>
-  </tr>
-</table>
--->
