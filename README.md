@@ -23,13 +23,15 @@
   <table align="center">
   <tr>
     <td align="center">
-      <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=leonardo-oliveiras&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true">
+      <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=leonardo-oliveiras&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true">
     </td>
     <td align="center">
-	<img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-oliveiras&&layout=compact&hide=shell&theme=highcontrast">  
-    </td>
-    <td align="center">
-	<img height="160em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leonardo-oliveiras&theme=tokyonight">  
+	<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-oliveiras&&layout=compact&hide=shell&theme=highcontrast">  
     </td>
   </tr>
+   <tr align="center">
+       <td align="center" colspan="2">
+	<img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leonardo-oliveiras&theme=tokyonight">  
+    </td>
+   </tr>
 </table>
