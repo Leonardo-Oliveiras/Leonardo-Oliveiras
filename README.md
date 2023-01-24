@@ -19,7 +19,19 @@
 [![MySkills](https://skillicons.dev/icons?i=html,css,sass,figma,bootstrap,vue,angular,jquery,js,ts,java,spring,hibernate,mysql,mongodb,heroku,firebase,aws,azure,docker,vscode,eclipse,idea,linux&perline=24)](https://skillicons.dev)
 
   <h2 align="center">GitHub Analytics</h2>
+  
+  <table align="center">
+  <tr>
+    <td align="center">
+      <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=leonardo-oliveiras&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true">
+    </td>
+    <td align="center">
+	<img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-oliveiras&&layout=compact&hide=shell&theme=highcontrast">  
+    </td>
+  </tr>
+</table>
 
+<!--
 <table align="center">
   <tr>
     <td align="center"><a href="https://github.com/leonardo-oliveiras#gh-light-mode-only"><img
@@ -40,3 +52,4 @@
           src="https://github-readme-streak-stats.herokuapp.com/?user=leonardo-oliveiras&theme=tokyonight" /></a></td>
   </tr>
 </table>
+-->
