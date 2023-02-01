@@ -13,8 +13,7 @@
 		<img src="https://komarev.com/ghpvc/?username=leonardo-oliveiras&label=PROFILE+VIEWS&style=for-the-badge">
 	</a> 
 </div>
-
-<h2 align="center">About me</h2>
+<br/>
 
 <p align="center"> AWS Certified Cloud Practitioner and Scrum Foundation Professional Certified passionate for learning, results driven, proactive, engaged, motivated, with more than 3 years of experience in web development. </p>
 
