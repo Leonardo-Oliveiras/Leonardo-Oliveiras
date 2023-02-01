@@ -14,6 +14,10 @@
 	</a> 
 </div>
 
+<h2 align="center">About me</h2>
+
+<p align="center"> AWS Certified Cloud Practitioner and Scrum Foundation Professional Certified passionate for learning, results driven, proactive, engaged, motivated, with more than 3 years of experience in web development. </p>
+
 <h2 align="center">Languages and tools</h2>
 
 [![MySkills](https://skillicons.dev/icons?i=html,css,sass,figma,bootstrap,vue,angular,jquery,js,ts,java,spring,hibernate,mysql,mongodb,heroku,firebase,aws,azure,docker,vscode,eclipse,idea,linux&perline=24)](https://skillicons.dev)
@@ -29,9 +33,10 @@
 	<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-oliveiras&&layout=compact&hide=shell&theme=highcontrast">  
     </td>
   </tr>
-   <tr align="center">
+<!--   <tr align="center">
        <td align="center" colspan="2">
 	<img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leonardo-oliveiras&theme=tokyonight">  
     </td>
    </tr>
+-->
 </table>
