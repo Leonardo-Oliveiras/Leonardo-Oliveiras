@@ -15,8 +15,22 @@
 </div>
 <br/>
 
-<p align="center"> AWS Certified Cloud Practitioner and Scrum Foundation Professional Certified passionate for learning, results driven, proactive, engaged, motivated, with more than 3 years of experience in web development. </p>
+<p align="center"> Software Engineer passionate for learning, results driven, proactive, engaged, motivated, with more than 3 years of experience in web development. </p>
 
+<h2 align="center"> Qualifications </h2>
+
+<ul >
+  <li>Adobe Experience Manager 6.3+ / AEM as Cloud Service</li>
+  <li>HTML5 / CSS3 / SASS</li>
+  <li>Bootstrap / jQuery</li>
+  <li>Angular / Vue / NodeJS / Spring Boot</li>
+  <li>JavaScript ES6+ / TypeScript / Java</li>
+  <li>Cypress / Unit Testing</li>
+  <li>Agile Tools: GitLab, Confluence, Jira, BitBucket, GitHub</li>
+  <li>AWS Certified Cloud Practitioner</li>
+  <li>Scrum Foundation Professional Certified</li>
+</ul>
+	
 <h2 align="center">Languages and tools</h2>
 
 [![MySkills](https://skillicons.dev/icons?i=html,css,sass,figma,bootstrap,vue,angular,jquery,js,ts,java,spring,hibernate,mysql,mongodb,heroku,firebase,aws,azure,docker,vscode,eclipse,idea,linux&perline=24)](https://skillicons.dev)
